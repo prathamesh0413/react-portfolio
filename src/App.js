@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello, I'm Prathamesh Pandhare</h1>
-        <p>Aspiring AWS Cloud Developer</p>
+        <p>Aspiring  Jumior AWS Developer</p>
         <a href="mailto:youremail@example.com">Contact Me</a>
       </header>
     </div>
